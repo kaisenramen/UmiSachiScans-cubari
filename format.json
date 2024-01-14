@@ -9,9 +9,12 @@
       "title": "test 1",
       "volume": "1",
       "groups": {
-        "placeholder": "https://imgchest.com/p/m9yxklre67q"
+        "Placeholder": [
+          "https://cdn.imgchest.com/files/myd5cjkmgz4.png",
+          "https://cdn.imgchest.com/files/3yrgcg89ab4.png"
+        ]
       },
       "last_updated": "1705275594"
-    },
+    }
   }
 }

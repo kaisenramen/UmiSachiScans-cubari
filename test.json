@@ -1,0 +1,28 @@
+{
+  "title": "test",
+  "description": "description",
+  "artist": "kaisenramen",
+  "author": "kaisenramen",
+  "cover": "https://cdn.discordapp.com/attachments/909989459645321216/1196236662531964938/latex.png",
+  "chapters": {
+    "1": {
+      "title": "test 1",
+      "volume": "1",
+      "groups": {
+        "Placeholder": "proxy/api/imgchest/chapter/m9yxklre67q"
+      },
+      "last_updated": "1705275594"
+    },
+    "2": {
+      "title": "test 2",
+      "volume": "1",
+      "groups": {
+        "Placeholder": [
+          "https://cdn.imgchest.com/files/myd5cjkmgz4.png",
+          "https://cdn.imgchest.com/files/3yrgcg89ab4.png"
+        ]
+      },
+      "last_updated": "1705276574"
+    }
+  }
+}
